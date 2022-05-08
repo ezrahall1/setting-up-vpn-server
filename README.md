@@ -83,6 +83,10 @@ Once you have logged in you need to make sure that the internet traffic is route
 At the top of the page you would need to click “update running server” just to make sure the changes take place.
 <img src="https://i.imgur.com/KN7pMlm.png" height="80%" width="80%" alt="Image 17"/>
 
+<H3>Step 5 - Login as the end user</H3>
+In order to connect a client to OpenVPN, in the same web browser enter in https://34.239.248.197:943 which should bring up the user login page (you can use the same credentials that you used for the admin login).
+
+
 
 
 
