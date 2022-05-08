@@ -93,6 +93,11 @@ From here you will be able to download which application you would like to conne
 <img src="https://i.imgur.com/Uclrkny.png" height="80%" width="80%" alt="Image 19"/>
 
 Click on Windows icon to start the download: You might be present with a Windows protected your PC on screen message, just click more info, then click run anyway.
+
+<img src="https://i.imgur.com/8IrSqvV.png" height="80%" width="80%" alt="Image 20"/>
+
+
+
 </p>
 
 <!--
