@@ -36,12 +36,12 @@ You will now need to connect to the EC2 instance, right click and select connect
 <img src="https://i.imgur.com/GcP8Yyh.png" height="80%" width="80%" alt="Image 4"/>
 <br />
 <br />
-In the index document section make sure you have added index.html and error.html in the correct text area, click save changes.
-<img src="https://i.imgur.com/agU4L6a.png" height="80%" width="80%" alt="Image 6"/>
+From there you would need to click on the SSH client tab.
+<img src="https://i.imgur.com/fPOxscO.png" height="80%" width="80%" alt="Image 5"/>
 <br />
 <br />
-Scroll down to static website hosting section and make a note of your bucket URL.
-<img src="https://i.imgur.com/bCb30OR.png" height="80%" width="80%" alt="Image 7"/>
+Copy the example command and enter it in your terminal windows making sure to specify the location of where your key pair is: ssh -i "vpnserverkey.pem" root@ec2-34-239-248-197.compute-1.amazonaws.com
+<img src="https://i.imgur.com/pLEGo1T.png" height="80%" width="80%" alt="Image 6"/>
 
 The next step is to upload some objects to the bucket you have created. In order to do that you would need to scroll to the top of the page and click on objects, then click on upload.
 
