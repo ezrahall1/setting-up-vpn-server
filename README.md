@@ -75,6 +75,11 @@ Once you have successfully changed the password for admin and client user you wo
 Enter in OpenVPN as the username and enter the password you created earlier.
 <img src="https://i.imgur.com/VxHXhRW.png" height="80%" width="80%" alt="Image 15"/>
 
+<H3>Step 4 - Configuring internet traffic</H3>
+Once you have logged in you need to make sure that the internet traffic is routed through the VPN. To enable this option you need to go to configuration>VPN settings>scroll down to the routing section and where it says “Should client Internet traffic be routed through the VPN?” click yes. Then click save settings at the bottom of the page.
+
+<img src="https://i.imgur.com/kFEwNEk.png" height="80%" width="80%" alt="Image 16"/>
+
 
 This shows that I successfully created a static website in AWS
 <img src="https://i.imgur.com/c8KFtkW.png" height="80%" width="80%" alt="Image 10"/>
