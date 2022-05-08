@@ -72,6 +72,8 @@ Once you have successfully changed the password for admin and client user you wo
 
 <img src="https://i.imgur.com/SSDNi94.png" height="80%" width="80%" alt="Image 14"/>
 
+Enter in OpenVPN as the username and enter the password you created earlier.
+<img src="https://i.imgur.com/VxHXhRW.png" height="80%" width="80%" alt="Image 15"/>
 
 
 This shows that I successfully created a static website in AWS
