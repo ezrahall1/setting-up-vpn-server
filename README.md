@@ -67,9 +67,13 @@ You need to enter sudo passwd OpenVPN.
 Once you have successfully changed the password for admin and client user you would need to go back to the AWS console in the EC2 section, with the instance currently available copy the ipv4 public ip address, open a new browser tab enter in https://34.239.248.197:943/admin (943 is the port number and the admin part is to access the admin page). You will be present with an error which says “your connection is not private” just click advance then click proceed.
 
 <img src="https://i.imgur.com/MnSL2OK.png" height="80%" width="80%" alt="Image 12"/>
-Based on the policy you have created you will now see a red banner stating, “publicly accessible”, which means the bucket can be access by anyone.
 
-<img src="https://i.imgur.com/PGbBV1i.png" height="80%" width="80%" alt="Image 10"/>
+<img src="https://i.imgur.com/xguCZ1H.png" height="80%" width="80%" alt="Image 13"/>
+
+
+
+
+
 
 This shows that I successfully created a static website in AWS
 <img src="https://i.imgur.com/c8KFtkW.png" height="80%" width="80%" alt="Image 10"/>
