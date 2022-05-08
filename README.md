@@ -63,22 +63,10 @@ You need to enter sudo passwd OpenVPN.
 
 <img src="https://i.imgur.com/ljgwFgf.png" height="80%" width="80%" alt="Image 11"/>
 
+<H3>Step 3 – Accessing OpenVPN via public ip address</H3>
+Once you have successfully changed the password for admin and client user you would need to go back to the AWS console in the EC2 section, with the instance currently available copy the ipv4 public ip address, open a new browser tab enter in https://34.239.248.197:943/admin (943 is the port number and the admin part is to access the admin page). You will be present with an error which says “your connection is not private” just click advance then click proceed.
 
-
-
-
-
-
-
-
-
-The next step is to upload some objects to the bucket you have created. In order to do that you would need to scroll to the top of the page and click on objects, then click on upload.
-
-Click on upload, click on add files and add the two html files (index.html and error.html). 
-<img src="https://i.imgur.com/AQICKJI.png" height="80%" width="80%" alt="Image 8"/>
-<H3>Step 3 – Grant permissions</H3>
-The next step is you need to grant permissions to be able to read these objects. You would need to create a bucket policy. Click on the permission tab scroll down to where is says bucket policy click on edit. When entering the policy details remember to update the arn so it is not the same as mine or else it would not work, click on save changes.
-<img src="https://i.imgur.com/mlZjKBx.png" height="80%" width="80%" alt="Image 9"/>
+<img src="https://i.imgur.com/MnSL2OK.png" height="80%" width="80%" alt="Image 12"/>
 Based on the policy you have created you will now see a red banner stating, “publicly accessible”, which means the bucket can be access by anyone.
 
 <img src="https://i.imgur.com/PGbBV1i.png" height="80%" width="80%" alt="Image 10"/>
