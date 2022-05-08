@@ -54,6 +54,11 @@ Once completed you would need to login with OpenVPN rather than the root user. Y
 
 <img src="https://i.imgur.com/6k2EDmO.png" height="80%" width="80%" alt="Image 9"/>
 
+Now you are logged in you would need to change the password for admin and client user.
+
+
+<img src="https://i.imgur.com/AP5tEFp.png" height="80%" width="80%" alt="Image 10"/>
+
 
 
 
