@@ -98,7 +98,14 @@ Click on Windows icon to start the download: You might be present with a Windows
 
 <img src="https://i.imgur.com/UAhgOsm.png" height="80%" width="80%" alt="Image 21"/>
 
+From here you would need to click next and accept the default requirements. Once the OpenVPN Connect has been installed an onboarding tour windows will appear on screen, click on the x button, and accept the terms. Slide the button across to connect and use OpenVPN Connect.
 
+<img src="https://i.imgur.com/6PkqSME.png" height="80%" width="80%" alt="Image 22"/>
+You would need to enter your credentials from earlier to successfully connect.
+
+<img src="https://i.imgur.com/vh0OJCI.png" height="80%" width="80%" alt="Image 23"/>
+
+If you see this screen it means you have successfully connected to OpenVPN Connect.
 
 </p>
 
