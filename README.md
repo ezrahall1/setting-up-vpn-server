@@ -1,7 +1,7 @@
 # Setting Up VPN Server
 
 <h2>Description</h2>
-Project consists of a simple static website created in AWS. The project provides a step by step guide on how to build the static website and what the end result would look like.
+This project is about setting up a VPN server via AWS. There is a step by step guide on how to build the VPN server successfully and test in order to make sure that it is working correctly.
 <br />
 
 
