@@ -85,9 +85,11 @@ At the top of the page you would need to click “update running server” just 
 
 <H3>Step 5 - Login as the end user</H3>
 In order to connect a client to OpenVPN, in the same web browser enter in https://34.239.248.197:943 which should bring up the user login page (you can use the same credentials that you used for the admin login).
+<img src="https://i.imgur.com/J3748mS.png" height="80%" width="80%" alt="Image 18"/>
 
 
-
+<H3>Step 6 - Downloading OpenVPN application</H3>
+From here you will be able to download which application you would like to connect to.
 
 
 This shows that I successfully created a static website in AWS
