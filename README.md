@@ -96,6 +96,8 @@ Click on Windows icon to start the download: You might be present with a Windows
 
 <img src="https://i.imgur.com/8IrSqvV.png" height="80%" width="80%" alt="Image 20"/>
 
+<img src="https://i.imgur.com/UAhgOsm.png" height="80%" width="80%" alt="Image 21"/>
+
 
 
 </p>
