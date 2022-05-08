@@ -70,8 +70,7 @@ Once you have successfully changed the password for admin and client user you wo
 
 <img src="https://i.imgur.com/xguCZ1H.png" height="80%" width="80%" alt="Image 13"/>
 
-
-
+<img src="https://i.imgur.com/SSDNi94.png" height="80%" width="80%" alt="Image 14"/>
 
 
 
