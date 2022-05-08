@@ -59,6 +59,14 @@ Now you are logged in you would need to change the password for admin and client
 
 <img src="https://i.imgur.com/AP5tEFp.png" height="80%" width="80%" alt="Image 10"/>
 
+You need to enter sudo passwd OpenVPN.
+
+<img src="https://i.imgur.com/ljgwFgf.png" height="80%" width="80%" alt="Image 11"/>
+
+
+
+
+
 
 
 
