@@ -31,9 +31,9 @@ Select create a new key pair and click download key pair as you will need this i
 <img src="https://i.imgur.com/1zVe9of.png" height="80%" width="80%" alt="Image 3"/>
 <br />
 <br />
-<H3>Step 2 – Enable static website hosting </H3>
-Click on the name of your bucket, then click on properties scroll down to the bottom where it says static website hosting and click on edit. Click on enable and make sure host a static website is selected.
-<img src="https://i.imgur.com/D92cAzu.png" height="80%" width="80%" alt="Image 4"/>
+<H3>Step 2 – Connecting to the EC2 instance </H3>
+You will now need to connect to the EC2 instance, right click and select connect.
+<img src="https://i.imgur.com/GcP8Yyh.png" height="80%" width="80%" alt="Image 4"/>
 <br />
 <br />
 In the index document section make sure you have added index.html and error.html in the correct text area, click save changes.
