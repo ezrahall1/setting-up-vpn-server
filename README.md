@@ -43,6 +43,8 @@ From there you would need to click on the SSH client tab.
 Copy the example command and enter it in your terminal windows making sure to specify the location of where your key pair is: ssh -i "vpnserverkey.pem" root@ec2-34-239-248-197.compute-1.amazonaws.com
 <img src="https://i.imgur.com/pLEGo1T.png" height="80%" width="80%" alt="Image 6"/>
 
+<img src="https://i.imgur.com/BF3BVwZ.png" height="80%" width="80%" alt="Image 7"/>
+
 The next step is to upload some objects to the bucket you have created. In order to do that you would need to scroll to the top of the page and click on objects, then click on upload.
 
 Click on upload, click on add files and add the two html files (index.html and error.html). 
