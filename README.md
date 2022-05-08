@@ -27,8 +27,8 @@ Click select which will bring you to the “Choose an Instance Type” page. Mak
 <img src="https://i.imgur.com/IdkyHHF.png" height="80%" width="80%" alt="Image 2"/>
 <br />
 <br />
-Tick the acknowledge box to show that you understand the changes you are making. <br/>
-<img src="https://i.imgur.com/vn34t2z.png" height="80%" width="80%" alt="Image 3"/>
+Select create a new key pair and click download key pair as you will need this in the next section. Click launch instance you would likely have to wait to a few minutes for the instances to become available. <br/>
+<img src="https://i.imgur.com/1zVe9of.png" height="80%" width="80%" alt="Image 3"/>
 <br />
 <br />
 Leave everything else as default scroll to the bottom and click create bucket. <br/>
