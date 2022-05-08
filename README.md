@@ -50,6 +50,14 @@ Click yes to accept the certificate. There will be a few prompts that you need t
 <img src="https://i.imgur.com/uXYOowQ.png" height="80%" width="80%" alt="Image 8"/>
 
 
+Once completed you would need to login with OpenVPN rather than the root user. You would need to enter in this command to login to OpenVPN: ssh -i Downloads/vpnserverkey.pem openvpnas@ec2-34-239-248-197.compute-1.amazonaws.com
+
+<img src="https://i.imgur.com/6k2EDmO.png" height="80%" width="80%" alt="Image 9"/>
+
+
+
+
+
 
 The next step is to upload some objects to the bucket you have created. In order to do that you would need to scroll to the top of the page and click on objects, then click on upload.
 
