@@ -109,6 +109,10 @@ If you see this screen it means you have successfully connected to OpenVPN Conne
 
 <img src="https://i.imgur.com/xZRHvEs.png" height="80%" width="80%" alt="Image 24"/>
 
+You can check what your new ip address is by going to www.google.com and typing what is my ip address.
+
+<img src="https://i.imgur.com/rIiQ9vD.png" height="80%" width="80%" alt="Image 25"/>
+
 </p>
 
 <!--
