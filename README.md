@@ -45,6 +45,12 @@ Copy the example command and enter it in your terminal windows making sure to sp
 
 <img src="https://i.imgur.com/BF3BVwZ.png" height="80%" width="80%" alt="Image 7"/>
 
+Click yes to accept the certificate. There will be a few prompts that you need to click enter in order to install OpenVPN.
+
+<img src="https://i.imgur.com/uXYOowQ.png" height="80%" width="80%" alt="Image 8"/>
+
+
+
 The next step is to upload some objects to the bucket you have created. In order to do that you would need to scroll to the top of the page and click on objects, then click on upload.
 
 Click on upload, click on add files and add the two html files (index.html and error.html). 
