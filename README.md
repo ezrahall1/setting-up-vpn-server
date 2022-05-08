@@ -80,6 +80,11 @@ Once you have logged in you need to make sure that the internet traffic is route
 
 <img src="https://i.imgur.com/kFEwNEk.png" height="80%" width="80%" alt="Image 16"/>
 
+At the top of the page you would need to click “update running server” just to make sure the changes take place.
+<img src="https://imgur.com/a/hBcevwk" height="80%" width="80%" alt="Image 17"/>
+
+
+
 
 This shows that I successfully created a static website in AWS
 <img src="https://i.imgur.com/c8KFtkW.png" height="80%" width="80%" alt="Image 10"/>
