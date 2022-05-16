@@ -1,7 +1,7 @@
 # Setting Up VPN Server
 
 <h2>Description</h2>
-This project is about setting up a VPN server via AWS. There is a step by step guide on how to build the VPN server successfully and test it, in order to make sure that it is working correctly.
+This project is about how to create a free VPN server in AWS cloud. This is a cost effective way to save money and provide much needed security when browsing on the internet. There is a step by step guide on how to build the VPN server successfully and test it, in order to make sure that it is working correctly.
 <br />
 
 
