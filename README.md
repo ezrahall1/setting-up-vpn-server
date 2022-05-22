@@ -14,6 +14,7 @@ This project is about how to create a free VPN server in AWS cloud. This is a co
 <h2>Environments Used </h2>
 
 - <b>AWS</b>
+- <b>Windows Powershell</b> 
 
 <h2>Program walk-through:</h2>
 <H3>Step 1 - Select AMI image</H3>
