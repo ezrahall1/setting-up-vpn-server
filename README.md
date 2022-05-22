@@ -19,6 +19,7 @@ This project is about how to create a free VPN server in AWS cloud. This is a co
 <H3>Step 1 - Select AMI image</H3>
 
 Once you have log into the AWS account you would need to click on services>EC2>launch instance>AWS Marketplace>search for OpenVPN. Click select on the first link (OpenVPN Access Server) make sure it says free tier eligible.
+
 <img src="https://i.imgur.com/rFqvIMC.png" height="80%" width="80%" alt="Image 1"/>
 
 Click select which will bring you to the “Choose an Instance Type” page. Make sure you select t2.micro (free tier eligible) click review and launch.
