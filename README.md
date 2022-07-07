@@ -1,7 +1,7 @@
 # Setting Up VPN Server
 
 <h2>Description</h2>
-This project is about how to create a free VPN server in AWS cloud. This is a cost effective way to save money and provide much needed security when browsing on the internet, it gives you a secure way to connect to your virtual private cloud in AWS using private ip addresses. There is a step by step guide on how to build the VPN server successfully and test it, in order to make sure that it is working correctly.
+This project is about how to create a free VPN server in AWS cloud. This is a cost effective way to save money and provide much needed security when browsing on the internet, it gives you a secure way to connect to your virtual private cloud in AWS using private ip addresses.
 <br />
 
 
@@ -19,7 +19,7 @@ This project is about how to create a free VPN server in AWS cloud. This is a co
 <h2>Program walk-through:</h2>
 <H3>Step 1 - Select AMI image</H3>
 
-Once you have log into the AWS account you would need to click on services>EC2>launch instance>AWS Marketplace>search for OpenVPN. Click select on the first link (OpenVPN Access Server) make sure it says free tier eligible.
+Once I have logged into the AWS account I clicked on services>EC2>launch instance>AWS Marketplace>search for OpenVPN. Click select on the first link (OpenVPN Access Server)
 
 <img src="https://i.imgur.com/rFqvIMC.png" height="80%" width="80%" alt="Image 1"/>
 
