@@ -23,13 +23,10 @@ Once I have logged into the AWS account I clicked on services>EC2>launch instanc
 
 <img src="https://i.imgur.com/rFqvIMC.png" height="80%" width="80%" alt="Image 1"/>
 
-Click select which will bring you to the “Choose an Instance Type” page. Make sure you select t2.micro (free tier eligible) click review and launch.
 <br />
 <br />
 <img src="https://i.imgur.com/IdkyHHF.png" height="80%" width="80%" alt="Image 2"/>
 <br />
-<br />
-Select create a new key pair and click download key pair as you will need this in the next section. Click launch instance you would likely have to wait to a few minutes for the instances to become available. <br/>
 <img src="https://i.imgur.com/1zVe9of.png" height="80%" width="80%" alt="Image 3"/>
 <br />
 <br />
