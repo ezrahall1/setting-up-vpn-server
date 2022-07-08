@@ -34,30 +34,18 @@ I wil now need to connect to the EC2 instance, right click and select connect.
 <img src="https://i.imgur.com/GcP8Yyh.png" height="80%" width="80%" alt="Image 4"/>
 <br />
 <br />
-From there you would need to click on the SSH client tab.
 <img src="https://i.imgur.com/fPOxscO.png" height="80%" width="80%" alt="Image 5"/>
 <br />
 <br />
-Copy the example command and enter it in your terminal windows making sure to specify the location of where your key pair is: ssh -i "vpnserverkey.pem" root@ec2-34-239-248-197.compute-1.amazonaws.com
 <img src="https://i.imgur.com/pLEGo1T.png" height="80%" width="80%" alt="Image 6"/>
 
 <img src="https://i.imgur.com/BF3BVwZ.png" height="80%" width="80%" alt="Image 7"/>
 
-Click yes to accept the certificate. There will be a few prompts that you need to click enter in order to install OpenVPN.
-
 <img src="https://i.imgur.com/uXYOowQ.png" height="80%" width="80%" alt="Image 8"/>
-
-
-Once completed you would need to login with OpenVPN rather than the root user. You would need to enter in this command to login to OpenVPN: ssh -i Downloads/vpnserverkey.pem openvpnas@ec2-34-239-248-197.compute-1.amazonaws.com
 
 <img src="https://i.imgur.com/6k2EDmO.png" height="80%" width="80%" alt="Image 9"/>
 
-Now you are logged in you would need to change the password for admin and client user.
-
-
 <img src="https://i.imgur.com/AP5tEFp.png" height="80%" width="80%" alt="Image 10"/>
-
-You need to enter sudo passwd OpenVPN.
 
 <img src="https://i.imgur.com/ljgwFgf.png" height="80%" width="80%" alt="Image 11"/>
 
