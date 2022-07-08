@@ -30,7 +30,7 @@ Once I have logged into the AWS account I clicked on services>EC2>launch instanc
 <br />
 
 <H3>Step 2 – Connecting to the EC2 instance </H3>
-You will now need to connect to the EC2 instance, right click and select connect.
+I wil now need to connect to the EC2 instance, right click and select connect.
 <img src="https://i.imgur.com/GcP8Yyh.png" height="80%" width="80%" alt="Image 4"/>
 <br />
 <br />
