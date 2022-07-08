@@ -60,15 +60,15 @@ Once you I successfully changed the password for admin and client user I would n
 <img src="https://i.imgur.com/VxHXhRW.png" height="80%" width="80%" alt="Image 15"/>
 
 <H3>Step 4 - Configuring internet traffic</H3>
-Once you have logged in you need to make sure that the internet traffic is routed through the VPN. To enable this option you need to go to configuration>VPN settings>scroll down to the routing section and where it says “Should client Internet traffic be routed through the VPN?” click yes. Then click save settings at the bottom of the page.
+Once I have logged in I needed to make sure that the internet traffic was routed through the VPN. To enable this option I had to go to configuration>VPN settings>scroll down to the routing section and where it says “Should client Internet traffic be routed through the VPN?” click yes. Then click save settings at the bottom of the page.
 
 <img src="https://i.imgur.com/kFEwNEk.png" height="80%" width="80%" alt="Image 16"/>
 
-At the top of the page you would need to click “update running server” just to make sure the changes take place.
 <img src="https://i.imgur.com/KN7pMlm.png" height="80%" width="80%" alt="Image 17"/>
 
 <H3>Step 5 - Login as the end user</H3>
-In order to connect a client to OpenVPN, in the same web browser enter in https://34.239.248.197:943 which should bring up the user login page (you can use the same credentials that you used for the admin login).
+In order to connect a client to OpenVPN, in the same web browser enter in https://34.239.248.197:943 which should bring up the user login page.
+
 <img src="https://i.imgur.com/J3748mS.png" height="80%" width="80%" alt="Image 18"/>
 
 
