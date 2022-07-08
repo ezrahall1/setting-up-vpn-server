@@ -49,7 +49,7 @@ I wil now need to connect to the EC2 instance.
 <img src="https://i.imgur.com/ljgwFgf.png" height="80%" width="80%" alt="Image 11"/>
 
 <H3>Step 3 – Accessing OpenVPN via public ip address</H3>
-Once you have successfully changed the password for admin and client user you would need to go back to the AWS console in the EC2 section, with the instance currently available copy the ipv4 public ip address, open a new browser tab enter in https://34.239.248.197:943/admin (943 is the port number and the admin part is to access the admin page). You will be present with an error which says “your connection is not private” just click advance then click proceed.
+Once you I successfully changed the password for admin and client user I would need to go back to the AWS console in the EC2 section, with the instance currently available copy the ipv4 public ip address, open a new browser tab enter in https://34.239.248.197:943/admin (943 is the port number and the admin part is to access the admin page). 
 
 <img src="https://i.imgur.com/MnSL2OK.png" height="80%" width="80%" alt="Image 12"/>
 
