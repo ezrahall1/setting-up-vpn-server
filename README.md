@@ -73,38 +73,23 @@ In order to connect a client to OpenVPN, in the same web browser enter in https:
 
 
 <H3>Step 6 - Downloading OpenVPN application</H3>
-From here you will be able to download which application you would like to connect to.
+In this final step I was able to download which application I would like to connect to.
 <img src="https://i.imgur.com/Uclrkny.png" height="80%" width="80%" alt="Image 19"/>
-
-Click on Windows icon to start the download: You might be present with a Windows protected your PC on screen message, just click more info, then click run anyway.
 
 <img src="https://i.imgur.com/8IrSqvV.png" height="80%" width="80%" alt="Image 20"/>
 
 <img src="https://i.imgur.com/UAhgOsm.png" height="80%" width="80%" alt="Image 21"/>
 
-From here you would need to click next and accept the default requirements. Once the OpenVPN Connect has been installed an onboarding tour windows will appear on screen, click on the x button, and accept the terms. Slide the button across to connect and use OpenVPN Connect.
-
 <img src="https://i.imgur.com/6PkqSME.png" height="80%" width="80%" alt="Image 22"/>
-You would need to enter your credentials from earlier to successfully connect.
 
 <img src="https://i.imgur.com/vh0OJCI.png" height="80%" width="80%" alt="Image 23"/>
 
-If you see this screen it means you have successfully connected to OpenVPN Connect.
+This screen means I have successfully connected to OpenVPN Connect.
 
 <img src="https://i.imgur.com/xZRHvEs.png" height="80%" width="80%" alt="Image 24"/>
 
-You can check what your new ip address is by going to www.google.com and typing what is my ip address.
+I can check what my new ip address is by going to www.google.com and typing what is my ip address.
 
 <img src="https://i.imgur.com/rIiQ9vD.png" height="80%" width="80%" alt="Image 25"/>
 
 </p>
-
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
