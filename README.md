@@ -86,7 +86,7 @@ In this final step I was able to download which application I would like to conn
 
 This screenshot means I have successfully connected to OpenVPN Connect.
 
-<img src="https://i.imgur.com/xZRHvEs.png" height="80%" width="80%" alt="Image 24"/>
+<img src="https://i.imgur.com/xZRHvEs.png" height="80%" width="50%" alt="Image 24"/>
 
 I can check what my new ip address is by going to www.google.com and typing what is my ip address.
 
