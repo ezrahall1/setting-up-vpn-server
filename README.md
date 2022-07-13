@@ -74,9 +74,9 @@ In order to connect a client to OpenVPN, in the same web browser enter in https:
 
 <H3>Step 6 - Downloading OpenVPN application</H3>
 In this final step I was able to download which application I would like to connect to.
-<img src="https://i.imgur.com/Uclrkny.png" height="80%" width="80%" alt="Image 19"/>
+<img src="https://i.imgur.com/Uclrkny.png" height="80%" width="50%" alt="Image 19"/>
 
-<img src="https://i.imgur.com/8IrSqvV.png" height="80%" width="80%" alt="Image 20"/>
+<img src="https://i.imgur.com/8IrSqvV.png" height="80%" width="50%" alt="Image 20"/>
 
 <img src="https://i.imgur.com/UAhgOsm.png" height="80%" width="50%" alt="Image 21"/>
 
