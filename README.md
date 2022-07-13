@@ -84,7 +84,7 @@ In this final step I was able to download which application I would like to conn
 
 <img src="https://i.imgur.com/vh0OJCI.png" height="80%" width="80%" alt="Image 23"/>
 
-This screen means I have successfully connected to OpenVPN Connect.
+This screenshot means I have successfully connected to OpenVPN Connect.
 
 <img src="https://i.imgur.com/xZRHvEs.png" height="80%" width="80%" alt="Image 24"/>
 
