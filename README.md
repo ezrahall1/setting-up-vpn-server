@@ -78,11 +78,11 @@ In this final step I was able to download which application I would like to conn
 
 <img src="https://i.imgur.com/8IrSqvV.png" height="80%" width="80%" alt="Image 20"/>
 
-<img src="https://i.imgur.com/UAhgOsm.png" height="80%" width="80%" alt="Image 21"/>
+<img src="https://i.imgur.com/UAhgOsm.png" height="80%" width="50%" alt="Image 21"/>
 
-<img src="https://i.imgur.com/6PkqSME.png" height="80%" width="80%" alt="Image 22"/>
+<img src="https://i.imgur.com/6PkqSME.png" height="80%" width="50%" alt="Image 22"/>
 
-<img src="https://i.imgur.com/vh0OJCI.png" height="80%" width="80%" alt="Image 23"/>
+<img src="https://i.imgur.com/vh0OJCI.png" height="80%" width="50%" alt="Image 23"/>
 
 This screenshot means I have successfully connected to OpenVPN Connect.
 
